@@ -11,7 +11,6 @@
 
     <div class="flex justify-center items-center min-h-screen bg-gray-100">
 
-
         <div class="bg-white shadow-md max-w-lg md:flex">
             <img class="w-full h-40 object-cover md:h-full flex-1" src="https://picsum.photos/id/1047/200/300" alt="">
             <div class="p-4 flex-1 md:flex md:flex-col justify-center items-center">

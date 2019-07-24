@@ -15,6 +15,12 @@ Route::get('/', function () {
     return view('welcome');
 });
 
+//Boite de connexion
 Route::get('/tailwindcss', function () {
     return view('tailwindcss');
+});
+
+//Navbar
+Route::get('/navbar', function () {
+    return view('navbar');
 });
